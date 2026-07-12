@@ -1,0 +1,15 @@
+team_id,team_name,city,logo_path,coach,stadium
+1,Mumbai City FC,Mumbai,assets/logos/MumbaiCity.png,Petr Kratky ,Mumbai Football Arena
+2,Bengaluru FC,Bengaluru,assets/logos/BengaluruFC.png,Pep Munoz,Sree Kanteerava Stadium
+3,Mohun Bagan Super Giants,Kolkata,assets/logos/MohunBagan.png,Sergio Lobera,Salt Lake Stadium
+4,FC Goa,Goa,assets/logos/FCGoa.png,Manolo Ma¡rquez,Jawaharlal Nehru Stadium
+5,East Bengal FC,Kolkata,assets/logos/EastBengalFC.png,Oscar Bruzon,Salt Lake Stadium
+6,Jamshedpur FC,Jamshedpur,assets/logos/JamshedpurFC.png,Owen Coyle,JRD Tata Sports Complex
+7,Odisha FC,Bhubaneswar,assets/logos/OdishaFC.png,T G Purushothaman,Kalinga Stadium
+8,Kerala Blasters,Kochi,assets/logos/KeralaBlasters.png,Ashley Westwood,Jawaharlal Nehru Stadium
+9,Chennayin FC,Chennai,assets/logos/ChennaiyinFC.png,Clifford Miranda,Jawaharlal Nehru Stadium
+10,Punjab FC,Punjab,assets/logos/PunjabFC.png,Panagiotis Dilberis,Jawaharlal Nehru Stadium
+11,Inter Kashi,Varanasi,assets/logos/InterKashi.png,Antonio Lopez Habas,Kishore Bharati Krirangan
+12,NorthEast United,Guwahati,assets/logos/NorthEastUnitedFC.png,Juan Pedro Benali,Indira Gandhi Athletic Stadium
+13,Mohammedan SC,Kolkata,assets/logos/MohammedanSC.png,Andrey Chernyshov,Kishore Bharati Krirangan
+14,Sporting Delhi,Delhi,assets/logos/SCDelhi.png,Tomasz Tchorz ,Jawaharlal Nehru Stadium

@@ -1,0 +1,93 @@
+match_id,season,home_team,away_team,home_goals,away_goals,date,venue,gameweek,match_status
+1,2025-26,Mohun Bagan Super Giants,Kerala Blasters,2,0,14-02-2026,Salt Lake Stadium Kolkata,1,completed
+2,2025-26,FC Goa,Inter Kashi,1,1,14-02-2026,JLN Stadium Fatorada,1,completed
+3,2025-26,Jamshedpur FC,Mohammedan SC,1,0,15-02-2026,JRD Tata Sports Complex,1,completed
+4,2025-26,Bengaluru FC,Sporting Delhi,2,0,15-02-2026,Sree Kanteerava Stadium,1,completed
+5,2025-26,East Bengal FC,NorthEast United,3,0,16-02-2026,Salt Lake Stadium Kolkata,1,completed
+6,2025-26,Mumbai City FC,Chennayin FC,1,0,19-02-2026,Mumbai Football Arena,1,completed
+7,2025-26,Mohammedan SC,FC Goa,0,2,20-02-2026,Kishore Bharati Krirangan,2,completed
+8,2025-26,East Bengal FC,Sporting Delhi,4,1,21-02-2026,Salt Lake Stadium Kolkata,2,completed
+9,2025-26,Jamshedpur FC,Punjab FC,1,0,21-02-2026,JRD Tata Sports Complex,2,completed
+10,2025-26,Bengaluru FC,NorthEast United,1,1,22-02-2026,Sree Kanteerava Stadium,2,completed
+11,2025-26,Kerala Blasters,Mumbai City FC,0,1,22-02-2026, JLN Stadium Kochi,2,completed
+12,2025-26,Mohun Bagan Super Giants,Chennayin FC,2,0,23-02-2026,Salt Lake Stadium Kolkata,2,completed
+13,2025-26,Odisha FC,Inter Kashi,0,0,24-02-2026,Kalinga Stadium,2,completed
+14,2025-26,FC Goa,Sporting Delhi,1,0,26-02-2026,JLN Stadium Fatorada,3,completed
+15,2025-26,East Bengal FC,Jamshedpur FC,1,2,27-02-2026,Salt Lake Stadium Kolkata,3,completed
+16,2025-26,Bengaluru FC,Punjab FC,0,2,27-02-2026,Sree Kanteerava Stadium,3,completed
+17,2025-26,Kerala Blasters,Inter Kashi,1,2,28-02-2026, JLN Stadium Kochi,3,completed
+18,2025-26,Mohun Bagan Super Giants,Mohammedan SC,5,1,28-02-2026,Salt Lake Stadium Kolkata,3,completed
+19,2025-26,Odisha FC,Chennayin FC,1,1,01-03-2026,Kalinga Stadium,3,completed
+20,2025-26,Mumbai City FC,NorthEast United,1,1,01-03-2026,Mumbai Football Arena,3,completed
+21,2025-26,East Bengal FC,FC Goa,0,0,05-03-2026,Salt Lake Stadium Kolkata,4,completed
+22,2025-26,Mohun Bagan Super Giants,Odisha FC,5,1,06-03-2026,Salt Lake Stadium Kolkata,4,completed
+23,2025-26,Jamshedpur FC,Inter Kashi,1,0,06-03-2026,JRD Tata Sports Complex,4,completed
+24,2025-26,Mohammedan SC,Bengaluru FC,1,2,07-03-2026,Kishore Bharati Krirangan,4,completed
+25,2025-26,Kerala Blasters,Chennayin FC,0,1,07-03-2026, JLN Stadium Kochi,4,completed
+26,2025-26,Mumbai City FC,Sporting Delhi,2,2,08-03-2026,Mumbai Football Arena,4,completed
+27,2025-26,Punjab FC,NorthEast United,1,1,09-03-2026,JLN Stadium Delhi,4,completed
+28,2025-26,East Bengal FC,Kerala Blasters,1,1,14-03-2026,Salt Lake Stadium Kolkata,5,completed
+29,2025-26,Bengaluru FC,Mohun Bagan Super Giants,0,0,14-03-2026,Sree Kanteerava Stadium,5,completed
+30,2025-26,NorthEast United,Jamshedpur FC,2,1,15-03-2026,Indira Gandhi Athletic Stadium,5,completed
+31,2025-26,Inter Kashi,Mumbai City FC,1,2,15-03-2026,Kishore Bharati Krirangan,5,completed
+32,2025-26,Punjab FC,FC Goa,1,1,16-03-2026,JLN Stadium Delhi,5,completed
+33,2025-26,Sporting Delhi,Jamshedpur FC,1,1,19-03-2026,JLN Stadium Delhi,6,completed
+34,2025-26,NorthEast United,Odisha FC,1,4,20-03-2026,Indira Gandhi Athletic Stadium,6,completed
+35,2025-26,Mohun Bagan Super Giants,Mumbai City FC,0,1,20-03-2026,Salt Lake Stadium Kolkata,6,completed
+36,2025-26,Kerala Blasters,Punjab FC,1,3,21-03-2026,JLN Stadium Kochi,6,completed
+37,2025-26,Chennayin FC,FC Goa,1,1,22-03-2026,JLN Stadium Chennai,6,completed
+38,2025-26,Inter Kashi,Bengaluru FC,1,3,22-03-2026,Kishore Bharati Krirangan,6,completed
+39,2025-26,East Bengal FC,Mohammedan SC,7,0,23-03-2026,Salt Lake Stadium Kolkata,6,completed
+40,2025-26,Punjab FC,Mohammedan SC,2,1,03-04-2026,JLN Stadium Delhi,7,completed
+41,2025-26,Jamshedpur FC,Mohun Bagan Super Giants,1,1,04-04-2026,JRD Tata Sports Complex,7,completed
+42,2025-26,FC Goa,Bengaluru FC,0,2,04-04-2026,JLN Stadium Fatorada,7,completed
+43,2025-26,Sporting Delhi,Kerala Blasters,2,0,05-04-2026,JLN Stadium Delhi,7,completed
+44,2025-26,Mumbai City FC,Odisha FC,1,0,05-04-2026,Mumbai Football Arena,7,completed
+45,2025-26,Chennayin FC,Inter Kashi,1,2,07-04-2026,JLN Stadium Chennai,7,completed
+46,2025-26,Jamshedpur FC,Mumbai City FC,1,1,09-04-2026,JRD Tata Sports Complex,7,completed
+47,2025-26,NorthEast United,Sporting Delhi,0,3,10-04-2026,Indira Gandhi Athletic Stadium,8,completed
+48,2025-26,FC Goa,Odisha FC,3,1,10-04-2026,JLN Stadium Fatorada,8,completed
+49,2025-26,Chennayin FC,East Bengal FC,1,3,11-04-2026,JLN Stadium Chennai,8,completed
+50,2025-26,Bengaluru FC,Kerala Blasters,1,2,11-04-2026,Sree Kanteerava Stadium,8,completed
+51,2025-26,Inter Kashi,Mohammedan SC,1,0,12-04-2026,Kishore Bharati Krirangan,8,completed
+52,2025-26,Mohun Bagan Super Giants,Punjab FC,3,2,12-04-2026,Salt Lake Stadium Kolkata,8,completed
+53,2025-26,Kerala Blasters,NorthEast United,1,1,15-04-2026,JLN Stadium Kochi,8,completed
+54,2025-26,East Bengal FC,Bengaluru FC,3,3,16-04-2026,Salt Lake Stadium Kolkata,9,completed
+55,2025-26,Chennayin FC,Sporting Delhi,1,0,17-04-2026,JLN Stadium Chennai,9,completed
+56,2025-26,Odisha FC,Mohammedan SC,1,1,17-04-2026,Kalinga Stadium,9,completed
+57,2025-26,Kerala Blasters,Jamshedpur FC,,,18-04-2026,JLN Stadium Kochi,9,upcoming
+58,2025-26,FC Goa,Mumbai City FC,,,18-04-2026,JLN Stadium Fatorada,9,upcoming
+59,2025-26,NorthEast United,Mohun Bagan Super Giants,,,19-04-2026,Indira Gandhi Athletic Stadium,9,upcoming
+60,2025-26,Punjab FC,Inter Kashi,,,20-04-2026,JLN Stadium Delhi,9,upcoming
+61,2025-26,Chennayin FC,Mohammedan SC,,,21-04-2026,JLN Stadium Chennai,5,upcoming
+62,2025-26,Kerala Blasters,Odisha FC,,,23-04-2026,JLN Stadium Kochi,10,upcoming
+63,2025-26,NorthEast United,FC Goa,,,24-04-2026,Indira Gandhi Athletic Stadium,10,upcoming
+64,2025-26,Bengaluru FC,Mumbai City FC,,,25-04-2026,Sree Kanteerava Stadium,10,upcoming
+65,2025-26,Jamshedpur FC,Chennayin FC,,,25-04-2026,JRD Tata Sports Complex,10,upcoming
+66,2025-26,Sporting Delhi,Mohammedan SC,,,26-04-2026,JLN Stadium Delhi,10,upcoming
+67,2025-26,East Bengal FC,Odisha FC,,,28-04-2026,Salt Lake Stadium Kolkata,11,upcoming
+68,2025-26,Jamshedpur FC,FC Goa,,,01-05-2026,JRD Tata Sports Complex,11,upcoming
+69,2025-26,Inter Kashi,NorthEast United,,,02-05-2026,Kishore Bharati Krirangan,11,upcoming
+70,2025-26,Sporting Delhi,Punjab FC,,,02-05-2026,JLN Stadium Delhi,11,upcoming
+71,2025-26,Odisha FC,Bengaluru FC,,,04-05-2026,Kalinga Stadium,11,upcoming
+72,2025-26,Punjab FC,Chennayin FC,,,06-05-2026,JLN Stadium Delhi,12,upcoming
+73,2025-26,Sporting Delhi,Odisha FC,,,08-05-2026,JLN Stadium Delhi,5,upcoming
+74,2025-26,Sporting Delhi,Odisha FC,,,08-05-2026,JLN Stadium Delhi,5,upcoming
+75,2025-26,Mumbai City FC,East Bengal FC,,,08-05-2026,Mumbai Football Arena,12,upcoming
+76,2025-26,FC Goa,Mohun Bagan Super Giants,,,09-05-2026,JLN Stadium Fatorada,12,upcoming
+77,2025-26,Jamshedpur FC,Bengaluru FC,,,09-05-2026,JRD Tata Sports Complex,12,upcoming
+78,2025-26,Kerala Blasters,Mohammedan SC,,,10-05-2026,JLN Stadium Kochi,12,upcoming
+79,2025-26,NorthEast United,Chennayin FC,,,10-05-2026,Indira Gandhi Athletic Stadium,12,upcoming
+80,2025-26,East Bengal FC,Punjab FC,,,11-05-2026,Salt Lake Stadium Kolkata,10,upcoming
+81,2025-26,Mohun Bagan Super Giants,Inter Kashi,,,12-05-2026,Salt Lake Stadium Kolkata,10,upcoming
+82,2025-26,Mohammedan SC,Mumbai City FC,,,15-05-2026,Kishore Bharati Krirangan,11,upcoming
+83,2025-26,Odisha FC,Punjab FC,,,16-05-2026,Kalinga Stadium,1,upcoming
+84,2025-26,Mohun Bagan Super Giants,East Bengal FC,,,17-05-2026,Salt Lake Stadium Kolkata,11,upcoming
+85,2025-26,Sporting Delhi,Inter Kashi,,,17-05-2026,JLN Stadium Delhi,12,upcoming
+86,2025-26,Kerala Blasters,FC Goa,,,17-05-2026,JLN Stadium Kochi,13,upcoming
+87,2025-26,Chennayin FC,Bengaluru FC,,,17-05-2026,JLN Stadium Chennai,13,upcoming
+88,2025-26,NorthEast United,Mohammedan SC,,,17-05-2026,Indira Gandhi Athletic Stadium,13,upcoming
+89,2025-26,Jamshedpur FC,Odisha FC,,,17-05-2026,JRD Tata Sports Complex,13,upcoming
+90,2025-26,Inter Kashi,East Bengal FC,,,17-05-2026,Kishore Bharati Krirangan,13,upcoming
+91,2025-26,Mohun Bagan Super Giants,Sporting Delhi,,,17-05-2026,Salt Lake Stadium Kolkata,13,upcoming
+92,2025-26,Punjab FC,Mumbai City FC,,,17-05-2026,JLN Stadium Delhi,13,upcoming

@@ -1,0 +1,15 @@
+team_id,team_name,city,logo_path,coach,stadium,total_market_value,established_year,previous_name1,previous_name2,owner1,owner2,owner3
+1,Mumbai City FC,Mumbai,assets/logos/MumbaiCity.png,Petr Kratky ,Mumbai Football Arena,€2.28m,2014,,,City Football Group,Ranbir Kapoor,Bimal Parekh
+2,Bengaluru FC,Bengaluru,assets/logos/BengaluruFC.png,Pep Munoz,Sree Kanteerava Stadium,€2.58m,2013,,,JSW Group,,
+3,Mohun Bagan Super Giants,Kolkata,assets/logos/MohunBagan.png,Sergio Lobera,Salt Lake Stadium,€6.35m,1889,Mohun Bagan Sporting Club,ATK Mohun Bagan,RPSG Group ,Sourav Ganguly,Utsav Parekh
+4,FC Goa,Goa,assets/logos/FCGoa.png,Manolo MÃ¡rquez,Jawaharlal Nehru Stadium,€3.33m,2014,,,Dempo Group,Adani Group,
+5,East Bengal FC,Kolkata,assets/logos/EastBengalFC.png,Óscar Bruzon,Salt Lake Stadium,€4.50m,1920,SC East Bengal,,Emami Group,East Bengal Club Pvt. Ltd.,
+6,Jamshedpur FC,Jamshedpur,assets/logos/JamshedpurFC.png,Owen Coyle,JRD Tata Sports Complex,€2.93m,2017,,,Tata Steel,,
+7,Odisha FC,Bhubaneswar,assets/logos/OdishaFC.png,T G Purushothaman,Kalinga Stadium,€1.55m,2019,,,GMS Inc.,,
+8,Kerala Blasters,Kochi,assets/logos/KeralaBlasters.png,Ashley Westwood,Jawaharlal Nehru Stadium,€2.28m,2014,,,Blasters Sports Pvt. Ltd.,,
+9,Chennayin FC,Chennai,assets/logos/ChennaiyinFC.png,Clifford Miranda,Jawaharlal Nehru Stadium,€2.33m,2014,,,Abhishek Bachchan,MS Dhoni,Vita Dani
+10,Punjab FC,Punjab,assets/logos/PunjabFC.png,Panagiotis Dilberis,Jawaharlal Nehru Stadium,€2.50m,2020,Round Glass Punjab FC,Minerva FC,Round Glass Sports,,
+11,Inter Kashi,Varanasi,assets/logos/InterKashi.png,Antonio López Habas,Kishore Bharati Krirangan,€1.95m,2023,,,RDB Group of Companies,,
+12,NorthEast United,Guwahati,assets/logos/NorthEastUnitedFC.png,Juan Pedro Benali,Indira Gandhi Athletic Stadium,€2.08m,2014,,,John Abraham,,
+13,Mohammedan SC,Kolkata,assets/logos/MohammedanSC.png,Andrey Chernyshov,Kishore Bharati Krirangan,€750k,1891,,,N/A,,
+14,Sporting Delhi,Delhi,assets/logos/SCDelhi.png,Tomasz Tchorz ,Jawaharlal Nehru Stadium,€1.83m,2023,,,Vijay Madduri,Varun Tripuraneni,Rana Daggubati

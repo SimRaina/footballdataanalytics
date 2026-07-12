@@ -1,0 +1,468 @@
+{
+  "league": {
+    "name": "Indian Super League",
+    "shortName": "ISL",
+    "logo": "https://crests.football-data.org/PL.png"
+  },
+  "season": {
+    "name": "2025/26",
+    "year": 2026,
+    "isCurrent": false
+  },
+  "teams": [
+    {
+      "shortName": "ARS",
+      "name": "Arsenal",
+      "badge": "https://crests.football-data.org/57.svg",
+      "primaryColor": "#EF0107",
+      "stadium": "Emirates Stadium",
+      "city": "London",
+      "founded": 1886
+    },
+    {
+      "shortName": "AVL",
+      "name": "Aston Villa",
+      "badge": "https://crests.football-data.org/58.svg",
+      "primaryColor": "#95BFE5",
+      "stadium": "Villa Park",
+      "city": "Birmingham",
+      "founded": 1874
+    },
+    {
+      "shortName": "CHE",
+      "name": "Chelsea",
+      "badge": "https://crests.football-data.org/61.svg",
+      "primaryColor": "#034694",
+      "stadium": "Stamford Bridge",
+      "city": "London",
+      "founded": 1905
+    },
+    {
+      "shortName": "LIV",
+      "name": "Liverpool",
+      "badge": "https://crests.football-data.org/64.svg",
+      "primaryColor": "#C8102E",
+      "stadium": "Anfield",
+      "city": "Liverpool",
+      "founded": 1892
+    },
+    {
+      "shortName": "MCI",
+      "name": "Manchester City",
+      "badge": "https://crests.football-data.org/65.svg",
+      "primaryColor": "#6CABDD",
+      "stadium": "Etihad Stadium",
+      "city": "Manchester",
+      "founded": 1880
+    },
+    {
+      "shortName": "TOT",
+      "name": "Tottenham",
+      "badge": "https://crests.football-data.org/73.svg",
+      "primaryColor": "#132257",
+      "stadium": "Tottenham Hotspur Stadium",
+      "city": "London",
+      "founded": 1882
+    }
+  ],
+  "players": [
+    {
+      "id": 1,
+      "teamShortName": "ARS",
+      "name": "Bukayo Saka",
+      "position": "Winger",
+      "nationality": "England",
+      "goals": 16,
+      "assists": 9,
+      "yellowCards": 3,
+      "redCards": 0,
+      "appearances": 35
+    },
+    {
+      "id": 2,
+      "teamShortName": "ARS",
+      "name": "Martin Odegaard",
+      "position": "Midfielder",
+      "nationality": "Norway",
+      "goals": 11,
+      "assists": 10,
+      "yellowCards": 5,
+      "redCards": 0,
+      "appearances": 35
+    },
+    {
+      "id": 3,
+      "teamShortName": "AVL",
+      "name": "Ollie Watkins",
+      "position": "Striker",
+      "nationality": "England",
+      "goals": 19,
+      "assists": 13,
+      "yellowCards": 4,
+      "redCards": 0,
+      "appearances": 37
+    },
+    {
+      "id": 4,
+      "teamShortName": "AVL",
+      "name": "Leon Bailey",
+      "position": "Winger",
+      "nationality": "Jamaica",
+      "goals": 11,
+      "assists": 6,
+      "yellowCards": 2,
+      "redCards": 0,
+      "appearances": 32
+    },
+    {
+      "id": 5,
+      "teamShortName": "CHE",
+      "name": "Cole Palmer",
+      "position": "Midfielder",
+      "nationality": "England",
+      "goals": 22,
+      "assists": 11,
+      "yellowCards": 4,
+      "redCards": 0,
+      "appearances": 34
+    },
+    {
+      "id": 6,
+      "teamShortName": "CHE",
+      "name": "Nicolas Jackson",
+      "position": "Striker",
+      "nationality": "Senegal",
+      "goals": 14,
+      "assists": 5,
+      "yellowCards": 7,
+      "redCards": 1,
+      "appearances": 33
+    },
+    {
+      "id": 7,
+      "teamShortName": "LIV",
+      "name": "Mohamed Salah",
+      "position": "Winger",
+      "nationality": "Egypt",
+      "goals": 18,
+      "assists": 10,
+      "yellowCards": 2,
+      "redCards": 0,
+      "appearances": 35
+    },
+    {
+      "id": 8,
+      "teamShortName": "LIV",
+      "name": "Darwin Nunez",
+      "position": "Striker",
+      "nationality": "Uruguay",
+      "goals": 11,
+      "assists": 8,
+      "yellowCards": 5,
+      "redCards": 0,
+      "appearances": 36
+    },
+    {
+      "id": 9,
+      "teamShortName": "MCI",
+      "name": "Erling Haaland",
+      "position": "Striker",
+      "nationality": "Norway",
+      "goals": 27,
+      "assists": 5,
+      "yellowCards": 5,
+      "redCards": 0,
+      "appearances": 31
+    },
+    {
+      "id": 10,
+      "teamShortName": "MCI",
+      "name": "Phil Foden",
+      "position": "Midfielder",
+      "nationality": "England",
+      "goals": 19,
+      "assists": 8,
+      "yellowCards": 3,
+      "redCards": 0,
+      "appearances": 35
+    },
+    {
+      "id": 11,
+      "teamShortName": "TOT",
+      "name": "Son Heung-min",
+      "position": "Winger",
+      "nationality": "South Korea",
+      "goals": 17,
+      "assists": 10,
+      "yellowCards": 2,
+      "redCards": 0,
+      "appearances": 38
+    },
+    {
+      "id": 12,
+      "teamShortName": "TOT",
+      "name": "James Maddison",
+      "position": "Midfielder",
+      "nationality": "England",
+      "goals": 6,
+      "assists": 5,
+      "yellowCards": 5,
+      "redCards": 0,
+      "appearances": 29
+    },
+    {
+      "id": 13,
+      "teamShortName": "ARS",
+      "name": "Declan Rice",
+      "position": "Midfielder",
+      "nationality": "England",
+      "goals": 4,
+      "assists": 6,
+      "yellowCards": 7,
+      "redCards": 0,
+      "appearances": 38
+    },
+    {
+      "id": 14,
+      "teamShortName": "AVL",
+      "name": "John McGinn",
+      "position": "Midfielder",
+      "nationality": "Scotland",
+      "goals": 6,
+      "assists": 4,
+      "yellowCards": 6,
+      "redCards": 0,
+      "appearances": 36
+    },
+    {
+      "id": 15,
+      "teamShortName": "CHE",
+      "name": "Noni Madueke",
+      "position": "Winger",
+      "nationality": "England",
+      "goals": 8,
+      "assists": 4,
+      "yellowCards": 2,
+      "redCards": 0,
+      "appearances": 30
+    },
+    {
+      "id": 16,
+      "teamShortName": "LIV",
+      "name": "Luis Diaz",
+      "position": "Winger",
+      "nationality": "Colombia",
+      "goals": 13,
+      "assists": 5,
+      "yellowCards": 2,
+      "redCards": 0,
+      "appearances": 30
+    },
+    {
+      "id": 17,
+      "teamShortName": "MCI",
+      "name": "Kevin De Bruyne",
+      "position": "Midfielder",
+      "nationality": "Belgium",
+      "goals": 4,
+      "assists": 10,
+      "yellowCards": 3,
+      "redCards": 0,
+      "appearances": 18
+    },
+    {
+      "id": 18,
+      "teamShortName": "TOT",
+      "name": "Brennan Johnson",
+      "position": "Winger",
+      "nationality": "Wales",
+      "goals": 5,
+      "assists": 3,
+      "yellowCards": 3,
+      "redCards": 0,
+      "appearances": 34
+    }
+  ],
+  "matches": [
+    {
+      "id": 1,
+      "matchday": 1,
+      "date": "2024-01-13T15:00:00",
+      "status": "FINISHED",
+      "homeTeamShortName": "ARS",
+      "awayTeamShortName": "CHE",
+      "homeScore": 2,
+      "awayScore": 1
+    },
+    {
+      "id": 2,
+      "matchday": 1,
+      "date": "2024-01-13T17:30:00",
+      "status": "FINISHED",
+      "homeTeamShortName": "LIV",
+      "awayTeamShortName": "TOT",
+      "homeScore": 3,
+      "awayScore": 0
+    },
+    {
+      "id": 3,
+      "matchday": 1,
+      "date": "2024-01-14T15:00:00",
+      "status": "FINISHED",
+      "homeTeamShortName": "MCI",
+      "awayTeamShortName": "AVL",
+      "homeScore": 4,
+      "awayScore": 2
+    },
+    {
+      "id": 4,
+      "matchday": 2,
+      "date": "2024-01-20T15:00:00",
+      "status": "FINISHED",
+      "homeTeamShortName": "CHE",
+      "awayTeamShortName": "LIV",
+      "homeScore": 1,
+      "awayScore": 1
+    },
+    {
+      "id": 5,
+      "matchday": 2,
+      "date": "2024-01-20T17:30:00",
+      "status": "FINISHED",
+      "homeTeamShortName": "TOT",
+      "awayTeamShortName": "ARS",
+      "homeScore": 2,
+      "awayScore": 0
+    },
+    {
+      "id": 6,
+      "matchday": 2,
+      "date": "2024-01-21T15:00:00",
+      "status": "FINISHED",
+      "homeTeamShortName": "AVL",
+      "awayTeamShortName": "MCI",
+      "homeScore": 2,
+      "awayScore": 3
+    },
+    {
+      "id": 7,
+      "matchday": 3,
+      "date": "2024-01-27T15:00:00",
+      "status": "FINISHED",
+      "homeTeamShortName": "ARS",
+      "awayTeamShortName": "LIV",
+      "homeScore": 3,
+      "awayScore": 1
+    },
+    {
+      "id": 8,
+      "matchday": 3,
+      "date": "2024-01-27T17:30:00",
+      "status": "FINISHED",
+      "homeTeamShortName": "CHE",
+      "awayTeamShortName": "MCI",
+      "homeScore": 0,
+      "awayScore": 2
+    },
+    {
+      "id": 9,
+      "matchday": 3,
+      "date": "2024-01-28T15:00:00",
+      "status": "FINISHED",
+      "homeTeamShortName": "AVL",
+      "awayTeamShortName": "TOT",
+      "homeScore": 1,
+      "awayScore": 1
+    },
+    {
+      "id": 10,
+      "matchday": 4,
+      "date": "2024-02-03T15:00:00",
+      "status": "FINISHED",
+      "homeTeamShortName": "LIV",
+      "awayTeamShortName": "MCI",
+      "homeScore": 2,
+      "awayScore": 2
+    },
+    {
+      "id": 11,
+      "matchday": 4,
+      "date": "2024-02-03T17:30:00",
+      "status": "FINISHED",
+      "homeTeamShortName": "TOT",
+      "awayTeamShortName": "CHE",
+      "homeScore": 0,
+      "awayScore": 1
+    },
+    {
+      "id": 12,
+      "matchday": 4,
+      "date": "2024-02-04T15:00:00",
+      "status": "FINISHED",
+      "homeTeamShortName": "ARS",
+      "awayTeamShortName": "AVL",
+      "homeScore": 2,
+      "awayScore": 0
+    },
+    {
+      "id": 13,
+      "matchday": 5,
+      "date": "2024-02-10T15:00:00",
+      "status": "FINISHED",
+      "homeTeamShortName": "MCI",
+      "awayTeamShortName": "ARS",
+      "homeScore": 3,
+      "awayScore": 1
+    },
+    {
+      "id": 14,
+      "matchday": 5,
+      "date": "2024-02-10T17:30:00",
+      "status": "FINISHED",
+      "homeTeamShortName": "LIV",
+      "awayTeamShortName": "AVL",
+      "homeScore": 2,
+      "awayScore": 0
+    },
+    {
+      "id": 15,
+      "matchday": 5,
+      "date": "2024-02-11T15:00:00",
+      "status": "FINISHED",
+      "homeTeamShortName": "CHE",
+      "awayTeamShortName": "TOT",
+      "homeScore": 2,
+      "awayScore": 2
+    },
+    {
+      "id": 16,
+      "matchday": 6,
+      "date": "2024-02-17T15:00:00",
+      "status": "SCHEDULED",
+      "homeTeamShortName": "AVL",
+      "awayTeamShortName": "CHE",
+      "homeScore": null,
+      "awayScore": null
+    },
+    {
+      "id": 17,
+      "matchday": 6,
+      "date": "2024-02-17T17:30:00",
+      "status": "SCHEDULED",
+      "homeTeamShortName": "ARS",
+      "awayTeamShortName": "TOT",
+      "homeScore": null,
+      "awayScore": null
+    },
+    {
+      "id": 18,
+      "matchday": 6,
+      "date": "2024-02-18T15:00:00",
+      "status": "SCHEDULED",
+      "homeTeamShortName": "LIV",
+      "awayTeamShortName": "MCI",
+      "homeScore": null,
+      "awayScore": null
+    }
+  ]
+}
