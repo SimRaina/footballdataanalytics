@@ -140,16 +140,6 @@ with col4:
     </div>
     """, unsafe_allow_html=True)
 
-with col5:
-    total_positions = players["position"].nunique()
-    st.markdown(f"""
-    <div class="metric-card">
-        <div class="metric-value">📍</div>
-        <div class="metric-label">Positions</div>
-        <div class="metric-value">{total_positions}</div>
-    </div>
-    """, unsafe_allow_html=True)
-
 # ============= STANDINGS SECTION =============
 st.markdown("---")
 st.subheader("⚡ Current League Standings")
